@@ -1,14 +1,18 @@
-Graph
+<h1>Graph</h1> 
+<h3>Author by DingYi</h3>
+
 =====
 
 generate graphs that have no cycles
 
 All you need to do is download and running the command as follow：
 
-compile it in the command line:
+<h2>compile it in the command line:</h2>
 
-javac korat_dy/korat_dy.java
+		javac korat_dy/korat_dy.java
+		
+----------------------------------------
 
-run it in the command line:
+<h2>run it in the command line:</h2>
 
-java korat_dy.korat_dy
+		java korat_dy.korat_dy
