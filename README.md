@@ -1,5 +1,5 @@
 <h1>Graph</h1> 
-<h3>Author by DingYi</h3>
+<h3>By Author DingYi</h3>
 
 generate graphs that have no cycles
 
