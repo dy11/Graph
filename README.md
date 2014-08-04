@@ -15,3 +15,9 @@ All you need to do is download and running the command as follow：
 <h2>run it in the command line:</h2>
 
 		java korat_dy.korat_dy
+
+
+
+
+
+http://www.asp.net/mvc/tutorials/getting-started-with-ef-5-using-mvc-4/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application
