@@ -19,5 +19,3 @@ All you need to do is download and running the command as follow：
 
 
 
-
-http://www.asp.net/mvc/tutorials/getting-started-with-ef-5-using-mvc-4/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application
